@@ -15,12 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+  <img height="400" src="https://i.imgflip.com/65efzo.gif"  />
 </div>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="hackerrank logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left">Hello everyone !!😃</p>
+<h2 align="left">Hello everyone !!😃</h2>
 
 ###
 
@@ -36,11 +36,11 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left">Here is my Tech Stack...💯</p>
+<h3 align="center">Here is my Tech Stack...💯</h3>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
@@ -65,6 +65,7 @@ Here are some ideas to get you started:
 ###
 
 <div align="center">
+<h3 align="center">Visitor's Count.</h3>
   <img src="https://profile-counter.glitch.me/VishnuPriya9589/count.svg?"  />
 </div>
 
@@ -77,10 +78,10 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left">I hope you found my profile helpful...✨</p>
+<h3 align="left">I hope you found my profile helpful...✨</h3>
 
 ###
 
-<p align="left">Thank you for visiting my profile 😊</p>
+<h2 align="left">Thank you for visiting my profile 😊</h2>
 
 ###
