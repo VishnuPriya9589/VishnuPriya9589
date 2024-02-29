@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-  <img height="300" src="profile.jpeg"  />
+  <img height="300" src="img.jpeg"  />
 </div>
 
 ###
